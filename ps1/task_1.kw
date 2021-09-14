@@ -1,0 +1,24 @@
+10 6 1 1 E 1
+W 3 3 S
+W 4 3 S
+W 5 2 W
+W 5 1 W
+W 5 1 E
+W 5 2 E
+W 5 3 E
+W 5 4 E
+W 5 5 E
+W 6 1 E
+W 6 2 E
+W 6 3 E
+W 6 4 E
+W 7 5 S
+W 8 5 S
+W 9 4 W
+W 9 3 W
+W 9 2 W
+W 9 1 W
+W 9 1 E
+W 9 2 E
+
+B 9 1 1
